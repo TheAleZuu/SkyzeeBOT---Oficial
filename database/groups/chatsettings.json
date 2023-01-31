@@ -1,0 +1,28 @@
+{
+	"anti": {
+		"whatsappGroups": [],
+		"whatsappPrivate": [],
+		"youtube": [],
+		"instagram": [],
+		"facebook": [],
+		"telegram": [],
+		"tiktok": [],
+		"twitter": [],
+		"documents": [],
+		"toxic": [],
+		"flood": [],
+		"links": []
+	},
+	"auto": {
+		"reply": [],
+		"sticker": []
+	},
+	"other": {
+		"xpLevel": [],
+		"NSFW": []
+	},
+	"banned": {
+		"groups": [],
+		"users": []
+	}
+}
